@@ -1,0 +1,3 @@
+C:/Users/kacpe/CLionProjects/projekt_2_algorytmy_sortowania/cmake-build-debug/CMakeFiles/projekt_2_algorytmy_sortowania.dir
+C:/Users/kacpe/CLionProjects/projekt_2_algorytmy_sortowania/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kacpe/CLionProjects/projekt_2_algorytmy_sortowania/cmake-build-debug/CMakeFiles/rebuild_cache.dir
